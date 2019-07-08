@@ -1,3 +1,4 @@
+# Practice
 
 1. Chapter 3: [Basic Data Structures](https://runestone.academy/runestone/books/published/pythonds/BasicDS/ProgrammingExercises.html)
 
@@ -13,7 +14,7 @@ Problem 5: Chapter 3 - Programming Exercise 24
 
 Problem 6: Chapter 3 - Adapted from Exercise 27
 
-Solution: [Exercises from Chapter 3](\Exercises_Chapter_3.ipynb)
+Solution: [Exercises from Chapter 3](Exercises_Chapter_3.ipynb)
 
 2. Chapter 5: [Sorting and Searching](https://runestone.academy/runestone/books/published/pythonds/SortSearch/ProgrammingExercises.html)
 
@@ -29,4 +30,4 @@ Problem 2: Chapter 5 - Programming Exercise 10
 
 Problem 3: Chapter 5 - Programming Exercise 14
 
-Solution: [Exercises from Chapter 5](\Exercises_Chapter_5.ipynb)
+Solution: [Exercises from Chapter 5](Exercises_Chapter_5.ipynb)

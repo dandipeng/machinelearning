@@ -5,7 +5,7 @@ Machine Learning
 
 **Book**: _**[Problem Solving with Algorithms and Data Structures Using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)**_ by Brad Miller and David Ranum
 
-**Practice**: [Exercise in Book](\Data_Structures\Practices.md)
+**Practice**: [Exercise in Book](Data_Structures\README.md)
 
 
 ## 2. Scripting Language
