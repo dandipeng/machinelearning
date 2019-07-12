@@ -23,7 +23,7 @@ We also want to combine this system with other websites to acquire some informat
 4 Websites were scrapped to get the final dataset.
 
 The scraping codes are the following:
-1. [Rate My Professor Website Scraping](ScrapCode/RateMyProfessor-web scraping.ipynb)
+1. [Rate My Professor Website Scraping](ScrapCode/RateMyProfessor-web\ scraping.ipynb)
 2. [Course Schedule Scraping](ScrapCode/CourseSchedule.ipynb)
 3. [Book Info Scarping](ScrapCode/bookstore.ipynb)
 4. [Course Location Scraping](ScrapCode/Get_location.ipynb)

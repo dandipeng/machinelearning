@@ -32,5 +32,5 @@ Book: _**[The Elements of  Statistical Learning](https://web.stanford.edu/~hasti
 
 ### 3.3 Projects
 1. **[Analysis of UC Davis Instructional System](Projects/Analysis of UC Davis Instructional System)**
-2. **[Application of Classification Methods in Analyzing and Predicting Loan Status](Projects/Application of Classification Methods in Analyzing and Predicting Loan Status)** 
-3. **[Doodle Recognition through Image Classification](Projects/Doodle Recognition through Image Classification)**
+2. **[Application of Classification Methods in Analyzing and Predicting Loan Status](Projects/Application of Classification Methods in Analyzing and Predicting Loan Status)**
+3. **[Doodle Recognition through Image Classification](Projects/Doodle\ Recognition\ through\ Image\ Classification)**
