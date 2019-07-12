@@ -15,13 +15,13 @@ The best classifier of each model was developed using cross-validation and area 
 ![Data Overview](images/EDA1.png)
 
 
-### Method 1: KNN
+### Method 1: [KNN](KNN.ipynb)
 
 K-nearest neighbor (KNN) finds similar instances around the target instance. By the majority voting around the "k" nearest neighbors, KNN predicts the class to the target instance. This method has advantages in a large number of classification, such as handwritten digits. Also, as a non-parametric method , KNN is good at the classification where the decision boundary is irregular. The parameters chosen to be tuned is n\_neighbors (Number of neighbors to use), with other parameters following the default settings.
 
 The number of neighbors is determined by cross validation search( 3-fold search). Based on accuracy, the best number of neighbors is 13.  Here are the classification results for 13-NN model.
 
-### Method 2: Random Forest
+### Method 2: [Random Forest](Random_Forest.ipynb)
 
 Random forest is another method could be used in image classification. It is an ensemble method based on the combination of multiple decision trees, and use the classification that most of the trees made as the final result. It runs efficiently on large data bases and provides excellent accuracy comparing with most of algorithms.
 
@@ -46,7 +46,7 @@ For the random searched model, the best parameters we obtained are: n\_estimator
 ![Random Forest Confusion Matrix (Normalized)](images/rf_confusion_matrix_norm.png)
 ![Random Forest Confusion Matrix](images/rf_confusion_matrix_not_norm.png)
 
-### Method 3: GBDT
+### Method 3: [GBDT](GBDT.ipynb)
 
 A model using Gradient Boosted Decision Tree (GBDT) method is also adopted to recognize the images. This method is a combination of gradient descent and decision tree: it builds an additive model by adding a tree in each stage, with the tree computed by minimizing the loss function. In each update, a shrinkage parameter controls the learning speed of the boosting procedure, and subsampling a fraction of data in growing each tree adds to the independence between trees, thus improves the accuracy of the model.
 
@@ -79,7 +79,7 @@ The final result demonstrates that after 630 iterations (the last 30 without any
 From the ROC and PR curves, the area under the micro-average ROC curve is 0.9035, the area under the micro-average PR curve is 0.63. According to the normalized confusion matrix, 'cat' is the class with worst prediction and 'snail' is the class with best prediction.
 
 
-## Method 4: SVM
+## Method 4: [SVM](SVM.ipynb)
 Supported vector machine(SVM), which is a supervised machine learning algorithm used for classification and we extend this method to multi-class classification here. It constructs set of hyperplanes in a high-dimensional space and uses kernel trick to transform our data. Based on these transformations it finds optimal boundaries between the possible outputs.  
 
 We first do grid search with cross validation to find best parameter estimate of C and Gamma. Here we consider 4 kinds of kernel: linear, polynomial, gaussian and sigmoid. The overall results of 4 kernels are shown in the table below:
@@ -93,7 +93,7 @@ We first do grid search with cross validation to find best parameter estimate of
 
 Among all kernels, we find polynomial kernel with parameter C = 10 and Gamma = 0.05 gives highest accuracy and average precision. Confusion matrix, ROC and PR curves also give best results as they return largest AUC. Hence we can conclude the choice of polynomial kernel with parameter C = 10 and Gamma = 0.05 as our final model in SVM and compare it with others methods proposed from other team members.
 
-## Method 5: CNN
+## Method 5: [CNN](CNN)
 Convolutional Neural Network(CNN) is a class of deep, feed-forward ANN, most commonly applied to analyzing visual images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.
 
 Some strategies used to train CNN:
