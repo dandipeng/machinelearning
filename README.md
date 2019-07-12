@@ -27,5 +27,10 @@ Book: _**[Machine Learning A Probabilistic Perspective](https://www.cs.ubc.ca/~m
 
 Final Project:
 
-## 3.2 Medium Level
+### 3.2 Medium Level
 Book: _**[The Elements of  Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)**_ by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+### 3.3 Projects
+1. **[Analysis of UC Davis Instructional System](Projects/Analysis of UC Davis Instructional System)**
+2. **[Application of Classification Methods in Analyzing and Predicting Loan Status](Projects/Application of Classification Methods in Analyzing and Predicting Loan Status)** 
+3. **[Doodle Recognition through Image Classification](Projects/Doodle Recognition through Image Classification)**
