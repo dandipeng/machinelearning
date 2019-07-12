@@ -31,6 +31,6 @@ Final Project:
 Book: _**[The Elements of  Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)**_ by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
 ### 3.3 Projects
-1. **[Analysis of UC Davis Instructional System](Projects/Analysis&#32of&#32UC&#32Davis&#32Instructional&#32System)**
-2. **[Application of Classification Methods in Analyzing and Predicting Loan Status](Projects/Application of Classification Methods in Analyzing and Predicting Loan Status)**
-3. **[Doodle Recognition through Image Classification](Projects/Doodle\ Recognition\ through\ Image\ Classification)**
+1. **[Analysis of UC Davis Instructional System](https://github.com/dandipeng/machinelearning/tree/master/Projects/Analysis%20of%20UC%20Davis%20Instructional%20System)**
+2. **[Application of Classification Methods in Analyzing and Predicting Loan Status](https://github.com/dandipeng/machinelearning/tree/master/Projects/Application%20of%20Classification%20Methods%20in%20Analyzing%20and%20Predicting%20Loan%20Status)**
+3. **[Doodle Recognition through Image Classification](https://github.com/dandipeng/machinelearning/tree/master/Projects/Doodle%20Recognition%20through%20Image%20Classification)**

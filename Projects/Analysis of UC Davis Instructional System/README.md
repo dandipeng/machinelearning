@@ -28,7 +28,7 @@ The scraping codes are the following:
 3. [Book Info Scarping](ScrapCode/bookstore.ipynb)
 4. [Course Location Scraping](ScrapCode/Get_location.ipynb)
 
-You can find the raw data in [Dateset](Dataset).  
+You can find the raw data in [Dateset](Dataset).
 
 - Course detail
   1. Scraping Method: Web Scraping by requests and parsing the response by BeautifulSoup
