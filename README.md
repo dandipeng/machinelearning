@@ -23,7 +23,7 @@ Our final report: [R Package ’gradDescent’ Modification](http://heather.cs.u
 
 ## 3. Machine Learning
 ### 3.1 Entry Level
-Book: _**[Machine Learning A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)**_ by Kevin Patrick Murphy
+Book: _**[Machine Learning A Probabilistic Perspective](https://probml.github.io/pml-book/book0.html)**_ by Kevin Patrick Murphy
 
 Final Project:
 
